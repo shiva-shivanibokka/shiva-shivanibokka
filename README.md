@@ -261,6 +261,11 @@ A multi-model forecasting system predicting stock prices for all S&P 500 tickers
 
 ---
 
-⭐ **From [shiva-shivanibokka](https://github.com/shiva-shivanibokka)**  
-_"Engineering Intelligence, One Model at a Time — Pioneering the Future of AI."_ 🤖🚀
+<p align="center">
+  ⭐ From <a href="https://github.com/shiva-shivanibokka">shiva-shivanibokka</a>  
+</p>
+<p align="center">
+  <em>"Engineering Intelligence, One Model at a Time — Pioneering the Future of AI"</em> 🤖🚀
+</p>
+
 
