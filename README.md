@@ -19,6 +19,7 @@ My expertise spans **machine learning, software development, and data analytics*
 - **Software Engineer**
 - **Data Scientist**
 - **Data Analyst**
+- **Cloud Engineer**
 
 📌 **Currently seeking** opportunities where I can apply my skills in **AI, data science, and software engineering** to drive innovation, improve decision-making, and deliver high-quality products.
 
@@ -106,100 +107,143 @@ My expertise spans **machine learning, software development, and data analytics*
 - Adaptability in Fast-Paced Environments  
 - Technical Writing & Presentation Skills
 
----
-
-## 💼 Professional Experience
-
-### **Teaching Assistant** – Data Science & Machine Learning Program & PINC Program, SFSU _(Aug 2025 – Present)_
-- Conduct **10 weekly discussion sessions** and dedicated office hours for 20+ graduate and undergraduate students, focusing on:
-  - **Python programming fundamentals**
-  - **Data preprocessing & visualization**
-  - **Supervised/Unsupervised ML model development**
-- Provide **individualized code reviews** and guidance on optimizing model accuracy and efficiency.
-- Design and deliver **2+ original coding examples, datasets, and exercises** weekly to reinforce lectures.
-- Collaborate with faculty to improve course structure and align hands-on assignments with industry practices.
+  
+## 🌐 Languages Spoken
+- **English** – Fluent  
+- **Hindi** – Fluent  
+- **Telugu** – Fluent
 
 ---
 
-### **Vice President Finance** – Associated Students, SFSU _(Jun 2025 – Present)_
-- Manage **$100,000+ budget** for student organizations and initiatives, ensuring compliance with funding policies.
-- Lead the **Finance Committee**, reviewing and approving funding proposals in a transparent, data-driven manner.
-- Spearheaded fundraising strategy that secured **$50,000** for the **Gator Groceries initiative** to address food insecurity.
-- Act as financial liaison for **10,000+ students**, advocating for responsible allocation of resources.
+## 🌱 Professional Experience
+
+### 🎓 Teaching Assistant – Data Science & Machine Learning Program & PINC Program, SFSU  
+Supporting 20+ students in mastering programming, data analysis, and ML model development through lectures, code reviews, and project guidance.  
+**Aug 2025 – Present**
+
+🔥 **Key Achievements:**
+- 👩‍🏫 Conducted **10 weekly discussion sessions** and office hours on Python, data preprocessing, and ML algorithms.  
+- 🧠 Guided students in applying **PyTorch, TensorFlow, and Scikit-learn** to real-world projects.  
+- 📚 Designed **2+ coding examples, datasets, and exercises weekly** to reinforce learning.  
+- 🤝 Provided one-on-one debugging assistance, boosting assignment completion rates.
 
 ---
 
-### **Teaching Assistant / Grader** – Pattern Analysis & Machine Intelligence, SFSU _(Feb 2025 – May 2025)_
-- Led **weekly 1-hour sessions** to simplify advanced topics in **pattern recognition** and **feature extraction** using Python and MATLAB.
-- Supported **40+ students** in applying:
-  - Classification algorithms (SVM, k-NN)
-  - Clustering (K-Means, Hierarchical)
-  - Dimensionality reduction (PCA, LDA)
-- Graded **200+ projects and assignments**, delivering constructive, rubric-based feedback.
+### 🏛 Vice President Finance – Associated Students, SFSU  
+Managing a $100,000+ budget for student organizations and leading initiatives to improve financial planning and resource allocation.  
+**Jun 2025 – Present**
+
+🔥 **Key Achievements:**
+- 💰 Oversaw **$100,000+ budget allocation** across multiple campus organizations.  
+- 📊 Chaired **weekly Finance Committee meetings**, approving funding proposals.  
+- 💡 Developed fundraising strategy securing **$50,000** for the Gator Groceries initiative.
 
 ---
 
-### **Teaching Assistant / Grader** – Probability and Statistics - I, SFSU _(Feb 2025 – May 2025)_
-- Conducted **problem-solving sessions** covering over **20 statistical methods** including hypothesis testing, regression, and probability distributions.
-- Assisted **40+ students** in applying theoretical concepts to data-driven decision-making.
-- Graded **400+ assignments**, ensuring detailed explanations for incorrect answers to aid learning.
+### 📊 Teaching Assistant / Grader – Pattern Analysis & Machine Intelligence, SFSU  
+Guided students in mastering pattern recognition algorithms through practical sessions and project support.  
+**Feb 2025 – May 2025**
+
+🔥 **Key Achievements:**
+- 📘 Led **weekly 1-hour sessions** simplifying complex algorithms in MATLAB and Python.  
+- 🧮 Supported **40+ students** in applying classification, clustering, and feature extraction techniques.  
+- ✏ Graded **200+ assignments/projects** with constructive, rubric-based feedback.
 
 ---
 
-### **Manager (Marketing & New Technologies)** – Stagecraft Pvt Ltd _(Aug 2022 – Mar 2024)_
-- Directed **15+ multimedia production projects** for corporate and event clients.
-- Led **technology integration initiatives** that improved workflow efficiency by **15%**.
-- Delivered **client presentations** leading to a **10% increase in engagement** and **15% improvement in retention rates**.
-- Oversaw **budgeting, scheduling, and quality control**, ensuring projects met deadlines without compromising quality.
+### 📊 Teaching Assistant / Grader – Probability and Statistics I, SFSU  
+Facilitated understanding of 20+ statistical methods and probability concepts through problem-solving sessions.  
+**Feb 2025 – May 2025**
+
+🔥 **Key Achievements:**
+- 📐 Led **weekly problem-solving sessions** reinforcing theoretical concepts with practical examples.  
+- 👥 Provided academic support to **40+ students** via one-on-one and group guidance.  
+- ✏ Graded **400+ assignments** with detailed feedback to improve student understanding.
+
+---
+
+### ⚽ Intramural Sports Referee – Mashouf Wellness Center, SFSU  
+Maintained game fairness, safety, and sportsmanship in high-energy recreational sports events.  
+**Feb 2025 – May 2025**
+
+🔥 **Key Achievements:**
+- 🏟 Officiated **90+ indoor/outdoor soccer and volleyball matches**.  
+- ⏱ Managed **3–4 matches daily**, ensuring rule compliance and smooth transitions between games.  
+- 🛡 Promoted respectful communication and safety during matches.
+
+---
+
+### 🎯 Manager (Marketing & New Technologies) – Stagecraft Pvt Ltd, New Delhi, India  
+Led cross-functional teams to deliver multimedia production projects while integrating innovative tech solutions.  
+**Aug 2022 – Mar 2024**
+
+🔥 **Key Achievements:**
+- 📹 Managed **15+ multimedia projects**, bridging marketing and technical teams.  
+- 💼 Delivered client presentations increasing engagement by **10%** and retention by **15%**.  
+- ⚙ Enhanced workflows by **15%** through technology integration.
 
 ---
 
 ## 📊 Featured Projects
 
-### **World Statistics Dashboard** – *Tableau, Data Visualization*
-**Duration:** 4 months | **Team Size:** 3  
-- Created an **interactive Tableau dashboard** to visualize key socio-economic indicators (GDP, mortality rate, rural population, agricultural land use) across **18 countries (1995–2015)**.
-- Data sourced from **World Bank** and **Kaggle**, cleaned with Python and Tableau Prep.
-- Designed **custom calculated fields** for derived metrics and optimized for stakeholder queries.
-- Outcome: Enhanced policy analysis capabilities by enabling dynamic, multi-variable comparisons.
+### 🗺 World Statistics Dashboard – *Tableau, Data Visualization*
+An interactive Tableau dashboard to explore socio-economic indicators and trends across 18 countries (1995–2015), enabling quick multi-variable policy analysis.
 
+🔥 **Key Features:**
+- 📊 **Multi-Variable Analysis**: GDP, mortality rate, rural population, agricultural land use, and more visualized in one platform.
+- 🧹 **Data Preparation**: Merged World Bank & Kaggle datasets, cleaned with Python & Tableau Prep, structured in Excel for optimized loading.
+- 🎨 **Advanced Visualizations**: Bubble charts, treemaps, histograms, and multi-line graphs with dynamic filters and intuitive color coding.
+- 📈 **Policy Insights**: Designed for stakeholders to compare trends and identify growth or decline patterns over time.
+
+💻 **Tech Stack**: Tableau, Python (pandas), Tableau Prep, Excel
 ---
 
-### **Image Super-Resolution with HAN Model** – *PyTorch, Deep Learning*
-**Duration:** 4 months | **Team Size:** 3  
-- Implemented **Holistic Attention Network (HAN)** integrating Layer, Channel, Spatial, and Residual Attention Modules.
-- Processed **500,000+ low-resolution image patches** from Urban100 and Manga109 datasets.
-- Achieved **PSNR 20.44** and **SSIM 0.5607**, outperforming baseline models like SRCNN, RCAN, and EDSR.
-- Applied **data augmentation** and **learning rate scheduling** to improve generalization.
+### 🖼 Image Super-Resolution with HAN Model – *PyTorch, Deep Learning*
+A deep learning model integrating multiple attention mechanisms to upscale low-resolution images while preserving fine details.
 
+🔥 **Key Features:**
+- 🧠 **Advanced Architecture**: Holistic Attention Network (HAN) combining Layer, Channel, Spatial, and Residual Attention Modules.
+- 🗃 **Dataset Processing**: Generated 500,000+ 64×64 image patches from Div2K dataset with augmentation (rotations, flips).
+- ⚙ **Optimized Training**: AdamW optimizer with cosine learning rate scheduler for stable convergence and performance.
+- 📊 **High-Quality Output**: Achieved PSNR 20.44, SSIM 0.5607 on Urban100 & Manga109 benchmarks, outperforming SRCNN, RCAN, and EDSR.
+
+💻 **Tech Stack**: PyTorch, NumPy, pandas, Matplotlib
 ---
 
-### **AI Global Index Analysis** – *Machine Learning, EDA*
-**Duration:** 4 months | **Team Size:** 1  
-- Analyzed **AI readiness across 62 countries** using the AI Global Index dataset.
-- Built and compared **7 regression models** (Multiple Linear Regression, LassoCV, SVR, etc.) achieving **R² of 0.987**.
-- Conducted **clustering with K-Means + PCA** to segment countries into AI maturity groups.
-- Delivered **insights and visualizations** to policymakers and researchers.
+### 🌍 AI Global Index Analysis – *Machine Learning, EDA*
+A machine learning-driven analysis of global AI readiness, comparing and grouping countries by AI maturity.
 
+🔥 **Key Features:**
+- 📊 **Predictive Modeling**: Built 7 regression models (MLR, LassoCV, SVR) with R² = 0.987 for AI score estimation.
+- 🗂 **Feature Engineering**: Identified key drivers of AI maturity including Research, Talent, and Commercial Engagement.
+- 🗺 **Clustering Analysis**: Used K-Means + PCA to group countries into AI maturity segments, visualized through PCA plots.
+- 🧠 **Classification Models**: Applied Random Forest and SVM for political regime and region classification.
+
+💻 **Tech Stack**: Python, pandas, scikit-learn, NumPy, Matplotlib, PCA
 ---
 
-### **Curated Health Web App** – *Django, MySQL, Docker, AWS, JavaScript, CSS*
-**Duration:** 2 months | **Team Size:** 5  
-- Developed a **health tracking web application** for **10,000+ SFSU students** to log daily exercises and wellness habits.
-- Backend: **Django** with **MySQL** database; Frontend: **JavaScript/CSS**; Deployment: **AWS EC2**.
-- Containerized services using **Docker** for scalability and portability.
-- Roles: **Database Lead**, **Backend Lead**, **Technical Writer**, **Frontend Lead**.
-- Result: Fully functional, multi-user platform with persistent storage and secure authentication.
+### 🏥 Curated Health Web App – *Django, MySQL, Docker, AWS, JavaScript, CSS*
+A full-stack health tracking platform for 10,000+ SFSU students to log daily activities and habits.
 
+🔥 **Key Features:**
+- 🖥 **Full-Stack Development**: Django backend with MySQL database, JavaScript/CSS frontend, deployed on AWS EC2.
+- 📦 **Containerized Deployment**: Used Docker for consistent environments and easy scalability.
+- 🔐 **Authentication**: Secure multi-user access with persistent storage.
+- 🛠 **Multiple Roles**: Served as Database Lead, Backend Lead, Technical Writer, and Frontend Lead.
+
+💻 **Tech Stack**: Django, MySQL, Docker, AWS EC2, JavaScript, CSS
 ---
 
-### **Stock Price Prediction Platform** – *LSTM, RNN, Transformers, Flask, React*
-**Duration:** 2 months | **Team Size:** 1  
-- Designed **multi-model forecasting system** for all **S&P 500 tickers** using 3 years of historical stock data via `yfinance` API.
-- Models implemented: **LSTM, RNN, Random Forest Regressor, Transformers**.
-- Built a **React frontend** connected to a **Flask API** for real-time predictions.
-- Integrated **AI-based Buy/Sell/Hold recommendation system** for user decision support.
-- Features: **Custom time horizon forecasting** (1 day, 1 week, 1 month, 6 months, 1 year), **interactive charts**, and **personalized recommendations**.
+### 📈 Stock Price Prediction Platform – *LSTM, RNN, Transformers, Flask, React*
+A multi-model forecasting system predicting stock prices for all S&P 500 tickers with AI-powered trade recommendations.
+
+🔥 **Key Features:**
+- 🔮 **Multi-Model Forecasting**: Implemented LSTM, RNN, Random Forest Regressor, and Transformer models.
+- ⏳ **Custom Time Horizons**: Predictions for 1 day, 1 week, 1 month, 6 months, and 1 year.
+- 🌐 **Interactive Frontend**: React UI connected to Flask API for real-time predictions and visualizations.
+- 💡 **AI Recommendations**: Integrated Buy/Sell/Hold advice based on model predictions.
+
+💻 **Tech Stack**: Flask, React, LSTM, RNN, Transformers, scikit-learn, yfinance API
 
 ---
 
