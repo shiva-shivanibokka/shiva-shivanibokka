@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a **Graduate Student in Data Science & Artificial Intelligence** at **San Francisco State University** (GPA: 3.93 / 4.0), building intelligent systems at the intersection of machine learning, large language models, and software engineering.
+I am a **Graduate Student in Data Science & Artificial Intelligence** at **San Francisco State University** (GPA: 3.88 / 4.0), building intelligent systems at the intersection of machine learning, large language models, and software engineering.
 
 My work spans the full AI development lifecycle — from classical ML pipelines on clinical genomics data, to production-grade agentic systems with multi-provider LLM orchestration, RAG/CAG architectures, and MLOps tooling. I have a strong foundation in deep learning (Transformers, LSTMs, attention mechanisms) and hands-on experience deploying full-stack AI applications on cloud infrastructure.
 
@@ -213,7 +213,6 @@ Open to discussing AI/ML engineering, research collaborations, and full-time opp
 
 ---
 
-<p align="center"><em>"Engineering Intelligence, One Model at a Time."</em></p>
 
 
 <p align="center">
