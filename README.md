@@ -6,16 +6,15 @@
   <a href="https://shiva-shivanibokka.github.io/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-6C4CF1?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/shivani-bokka"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:shivani.bokka93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://public.tableau.com/app/profile/shivani.bokka"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"></a>
 </p>
 
 ---
 
 ## 👋 About me
 
-I'm a **graduate student in Data Science & Artificial Intelligence** at **San Francisco State University** (GPA 3.93 / 4.0). I love turning research ideas into things that actually run — from classical ML pipelines on clinical genomics data, to production-grade agentic systems with multi-provider LLM orchestration, RAG/CAG architectures, and MLOps tooling.
+I'm a **graduate student in Data Science & Artificial Intelligence** at **San Francisco State University** (GPA 3.88 / 4.0). I love turning research ideas into things that actually run — from classical ML pipelines to production-grade agentic systems with multi-provider LLM orchestration, RAG/CAG architectures, and MLOps tooling.
 
-My foundation is in deep learning (Transformers, attention, LSTMs) and full-stack AI — and I care most about building systems that create **measurable, real-world impact**.
+My foundation is in **deep learning, machine learning, agentic AI, data science, and AI** — and I care most about building systems that create **measurable, real-world impact**.
 
 **Currently:** open to roles in **AI/ML Engineering, Data Science, and Software Engineering**.
 
@@ -29,9 +28,9 @@ My foundation is in deep learning (Transformers, attention, LSTMs) and full-stac
 
 At the portfolio you can:
 
-- 🗂️ **Browse every project** with the story behind it — the problem, the approach, and what I actually built
-- 🔎 **Ask it anything** — it has an in-browser semantic search, so you can type a question (*"show me your LLM work"* / *"what have you built with RAG?"*) and it surfaces the most relevant projects
-- 🧭 **See my full experience** — the work, the impact, and how the pieces connect
+- **Browse every project** with the story behind it — the problem, the approach, and what I actually built
+- **Search by meaning** — a lightweight semantic search runs right in your browser, so you can look up a topic or skill and it surfaces the most relevant projects
+- **See my full experience** — the work, the impact, and how the pieces connect
 
 If you're a recruiter or collaborator, **[the portfolio](https://shiva-shivanibokka.github.io/) is the best place to get to know my work.**
 
