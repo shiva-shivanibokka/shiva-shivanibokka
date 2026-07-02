@@ -36,14 +36,25 @@ If you're a recruiter or collaborator, **[the portfolio](https://shiva-shivanibo
 
 ---
 
-## 🛠️ A quick taste of what I work with
+## 🛠️ What I work with
 
-**ML / DL:** PyTorch · TensorFlow · scikit-learn · Transformers · attention · time-series (TFT, PatchTST) · computer vision
-**LLMs / GenAI:** RAG & CAG pipelines · agentic systems (ReAct, LangGraph, MCP) · fine-tuning (LoRA/QLoRA/DPO) · multi-provider orchestration
-**MLOps / Deploy:** MLflow · Docker · FastAPI · GitHub Actions · AWS · full-stack (React / Next.js)
-**Foundations:** from-scratch autograd & optimizers · strong math (linear algebra, probability, statistics)
+**Languages:** Python · SQL · JavaScript · TypeScript · HTML/CSS
 
-*(The full, detailed breakdown — with the projects that prove each of these — is on the [portfolio](https://shiva-shivanibokka.github.io/).)*
+**Machine Learning:** scikit-learn · XGBoost · CatBoost · regression & classification · SVM, random forests, gradient boosting, KNN, Naive Bayes · PCA & clustering · cross-validation & hyperparameter tuning (Optuna, Bayesian optimization) · feature engineering & leakage-safe pipelines · class-imbalance handling (SMOTE, class weights, threshold calibration)
+
+**Deep Learning:** PyTorch · TensorFlow · Keras · Transformers (encoder / decoder), LSTM / RNN, CNNs · attention (multi-head, channel / spatial, RoPE, grouped-query) · time-series (Temporal Fusion Transformer, PatchTST, quantile forecasting) · computer vision (single-image super-resolution, HAN) · training craft (mixed precision, gradient clipping / accumulation, cosine schedules, regularization)
+
+**LLMs & Generative AI:** RAG & CAG pipelines (chunking, sentence-transformer embeddings, FAISS / ChromaDB) · agentic systems (ReAct, LangGraph, Model Context Protocol) · fine-tuning (LoRA, QLoRA, DPO) · multi-provider orchestration (OpenAI, Anthropic, Gemini, Groq, Mistral, Ollama) · prompt engineering (few-shot, chain-of-thought, structured JSON) · hallucination / NLI detection · Pydantic-validated structured output
+
+**MLOps & Deployment:** MLflow (tracking, model registry, drift detection) · Docker · FastAPI · GitHub Actions CI/CD · AWS (EC2, S3, SageMaker) · Google Cloud · Gradio / Streamlit / Hugging Face Spaces
+
+**Data & Analytics:** pandas · NumPy · EDA & statistical analysis · hypothesis testing · Matplotlib / Seaborn / Plotly dashboards · web scraping (BeautifulSoup, Playwright) · SQL & async databases
+
+**Full-stack:** React · Next.js · Flask · Vite · shipping live, deployed apps
+
+**Foundations:** from-scratch autograd & optimizers · backprop by hand · math (linear algebra, probability, statistics, calculus) · data structures & algorithms (two pointers, sliding window, graphs / trees, DP, backtracking, heaps)
+
+*(The full, detailed breakdown — with the projects that prove each of these — lives on the [portfolio](https://shiva-shivanibokka.github.io/).)*
 
 ---
 
