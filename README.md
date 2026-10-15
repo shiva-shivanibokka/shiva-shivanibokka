@@ -16,6 +16,8 @@ I'm a **graduate student in Data Science & Artificial Intelligence** at **San Fr
 
 My foundation is in **deep learning, machine learning, agentic AI, data science, and AI** — and I care most about building systems that create **measurable, real-world impact**.
 
+**What I work on:** whether the signals used to check language models and multi-step agents measure what they claim to — failure attribution over long trajectories, benchmark construct validity, and LLM-as-judge reliability.
+
 **Currently:** open to roles in **AI/ML Engineering, Data Science, and Software Engineering**.
 
 ---
